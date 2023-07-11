@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1200"
+   LastUpgradeVersion = "1600"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "220626581A1E330400A45150"
+               BlueprintIdentifier = "7AA677101CFF765500B353FB"
                BuildableName = "AVCam.app"
                BlueprintName = "AVCam"
-               ReferencedContainer = "container:AVCam Objective-C.xcodeproj">
+               ReferencedContainer = "container:AVCam Swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -44,10 +44,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "220626581A1E330400A45150"
+            BlueprintIdentifier = "7AA677101CFF765500B353FB"
             BuildableName = "AVCam.app"
             BlueprintName = "AVCam"
-            ReferencedContainer = "container:AVCam Objective-C.xcodeproj">
+            ReferencedContainer = "container:AVCam Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -61,10 +61,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "220626581A1E330400A45150"
+            BlueprintIdentifier = "7AA677101CFF765500B353FB"
             BuildableName = "AVCam.app"
             BlueprintName = "AVCam"
-            ReferencedContainer = "container:AVCam Objective-C.xcodeproj">
+            ReferencedContainer = "container:AVCam Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
